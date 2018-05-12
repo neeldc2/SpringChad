@@ -1,4 +1,4 @@
-package com.spring.annotations;
+package com.luv2code.springdemo;
 
 public class SadFortuneService implements FortuneService {
 
